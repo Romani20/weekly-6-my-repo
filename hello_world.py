@@ -8,3 +8,6 @@ def getTheStateOfTheWorld(array):
     
 situation = ["war", "war"]
 print(getTheStateOfTheWorld(situation))
+
+situation1 = ["peace", "war"]
+print(getTheStateOfTheWorld(situation1))
